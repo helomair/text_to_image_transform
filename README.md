@@ -1,5 +1,9 @@
 # TXT to JPG
 
+## Explored by
+[https://stackoverflow.com/questions/29760402/converting-a-txt-file-to-an-image-in-python](https://stackoverflow.com/questions/29760402/converting-a-txt-file-to-an-image-in-python)
+
+
 ## Arguments
 ```
 usage: txt_to_image_transfer.py [-h] [-p TEXTFILE_PATH] [--size SIZE] [--font FONT] [--max MAX] [--dark_mode]
